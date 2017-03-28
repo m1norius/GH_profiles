@@ -1,0 +1,30 @@
+[
+  {
+    "car":{
+      "model":"bmw m3",
+      "engine":{
+        "power":150,
+        "type":"benzin",
+        "capacity":3.236
+      },
+      "wheels":{
+        "name":"hankook"
+      }
+    }
+  },
+
+  {
+    "car":{
+      "model":"bmw m5",
+      "engine":{
+        "power":450,
+        "type":"dizel",
+        "capacity":2.236
+      },
+      "wheels":{
+        "name":"nokian"
+      }
+    }
+  }
+]
+

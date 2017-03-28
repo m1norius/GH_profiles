@@ -1,0 +1,42 @@
+[
+  {
+    "car":{
+      "model":"audi a6",
+      "engine":{
+        "power":350,
+        "type":"electro",
+        "capacity":0
+      },
+      "wheels":{
+        "name":"pirelli"
+      }
+    }
+  },
+
+  {
+    "car":{
+      "model":"audi r7",
+      "engine":{
+        "power":250,
+        "type":"dizel",
+        "capacity":3.236
+      },
+      "wheels":{
+        "name":"nokian"
+      }
+    }
+  },
+  {
+    "car":{
+      "model":"audi 100",
+      "engine":{
+        "power":150,
+        "type":"dizel",
+        "capacity":1.8
+      },
+      "wheels":{
+        "name":"continental"
+      }
+    }
+  }
+]
